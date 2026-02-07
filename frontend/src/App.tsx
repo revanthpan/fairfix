@@ -23,11 +23,32 @@ type ScheduleItem = {
 
 const API_BASE = import.meta.env.VITE_API_BASE ?? "http://127.0.0.1:8002";
 const SERVICE_OPTIONS = [
-  "Brake Pad Replacement",
   "Oil Change",
+  "Transmission Fluid Change",
+  "Brake Fluid Change",
+  "Air Filter",
+  "Cabin Air Filter",
+  "TPMS Sensor",
+  "Brake Pad Replacement (Front)",
+  "Brake Pad Replacement (Rear)",
+  "Brake Rotor Replacement (Front)",
+  "Brake Rotor Replacement (Rear)",
+  "Alternator Replacement",
+  "Starter Replacement",
   "Battery Replacement",
+  "Spark Plug Replacement (4-cyl)",
+  "Spark Plug Replacement (6-cyl)",
+  "Spark Plug Replacement (8-cyl)",
+  "Timing Belt Replacement",
+  "Water Pump Replacement",
+  "Thermostat Replacement",
+  "Radiator Replacement",
+  "AC Recharge",
+  "Compressor Replacement",
   "Tire Rotation",
-  "Spark Plug Service",
+  "Wheel Alignment",
+  "Strut Replacement (Front)",
+  "Strut Replacement (Rear)",
 ];
 
 const formatCurrency = (value: number) =>
