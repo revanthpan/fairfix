@@ -1,8 +1,10 @@
 from pathlib import Path
 import random
+from typing import Tuple
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+from geopy.geocoders import Nominatim
 from sqlmodel import Session, SQLModel, create_engine, select
 
 from backend.models import MaintenanceSchedule, Severity
@@ -22,6 +24,7 @@ engine = create_engine(f"sqlite:///{DB_PATH}")
 SQLModel.metadata.create_all(engine)
 
 estimator = CostEstimator()
+geocoder = Nominatim(user_agent="fairfix-quote-engine")
 
 
 def estimate_cost(severity: Severity) -> int:
@@ -106,7 +109,15 @@ def quotes(
     make: str = Query(..., min_length=1),
     model: str = Query(..., min_length=1),
     year: int = Query(..., ge=1900),
+    zip_code: str = Query(..., min_length=3),
 ):
+    def geocode_zip(value: str) -> Tuple[float, float]:
+        location = geocoder.geocode({"postalcode": value, "country": "US"})
+        if not location:
+            raise HTTPException(status_code=404, detail="Unable to locate that zip code.")
+        return location.latitude, location.longitude
+
+    user_lat, user_lng = geocode_zip(zip_code)
     normalized_service = service_name.strip().lower()
     service_lookup = {
         "oil change": "Oil Change",
@@ -138,23 +149,31 @@ def quotes(
         indy_low, indy_high = estimate.indy.total_ci_low, estimate.indy.total_ci_high
         for name in dealer_names:
             price = round(random.uniform(dealer_low, dealer_high))
+            shop_lat = user_lat + random.uniform(-0.02, 0.02)
+            shop_lng = user_lng + random.uniform(-0.02, 0.02)
             quotes_list.append(
                 {
                     "name": name,
                     "price": price,
                     "type": "Dealer",
                     "distance": round(random.uniform(2.0, 15.0), 1),
+                    "lat": round(shop_lat, 6),
+                    "lng": round(shop_lng, 6),
                 }
             )
 
         for name in indy_names:
             price = round(random.uniform(indy_low, indy_high))
+            shop_lat = user_lat + random.uniform(-0.02, 0.02)
+            shop_lng = user_lng + random.uniform(-0.02, 0.02)
             quotes_list.append(
                 {
                     "name": name,
                     "price": price,
                     "type": "Indy",
                     "distance": round(random.uniform(1.0, 12.0), 1),
+                    "lat": round(shop_lat, 6),
+                    "lng": round(shop_lng, 6),
                 }
             )
     else:
@@ -170,28 +189,37 @@ def quotes(
 
         for name in dealer_names:
             price = round(base_price * 1.4)
+            shop_lat = user_lat + random.uniform(-0.02, 0.02)
+            shop_lng = user_lng + random.uniform(-0.02, 0.02)
             quotes_list.append(
                 {
                     "name": name,
                     "price": price,
                     "type": "Dealer",
                     "distance": round(random.uniform(2.0, 15.0), 1),
+                    "lat": round(shop_lat, 6),
+                    "lng": round(shop_lng, 6),
                 }
             )
 
         for name in indy_names:
             price = round(base_price * random.uniform(0.75, 0.95))
+            shop_lat = user_lat + random.uniform(-0.02, 0.02)
+            shop_lng = user_lng + random.uniform(-0.02, 0.02)
             quotes_list.append(
                 {
                     "name": name,
                     "price": price,
                     "type": "Indy",
                     "distance": round(random.uniform(1.0, 12.0), 1),
+                    "lat": round(shop_lat, 6),
+                    "lng": round(shop_lng, 6),
                 }
             )
 
     return {
         "service": service_name,
         "vehicle": {"make": make, "model": model, "year": year},
+        "center": {"lat": round(user_lat, 6), "lng": round(user_lng, 6)},
         "quotes": quotes_list,
     }
