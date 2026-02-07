@@ -1,0 +1,29 @@
+# Auto Maintenance Data Pipeline
+# Python 3.10+
+
+# HTTP & Scraping
+requests>=2.31.0
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+pyyaml>=6.0.0
+
+# Data
+pandas>=2.1.0
+pydantic>=2.5.0
+
+# PDF parsing (OEM manuals)
+pypdf2>=3.0.0
+pdfplumber>=0.10.0
+
+# Storage
+sqlalchemy>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tenacity>=8.2.0
+loguru>=0.7.0
+
+# API
+flask>=3.0.0
+flask-cors>=4.0.0

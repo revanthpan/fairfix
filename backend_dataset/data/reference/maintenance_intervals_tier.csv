@@ -1,0 +1,32 @@
+vehicle_tier,service_name,mileage_interval
+economy,Oil Change,7500
+economy,Transmission Fluid Change,60000
+economy,Brake Fluid Change,45000
+economy,Air Filter,30000
+economy,Cabin Air Filter,20000
+economy,Spark Plug Replacement (4-cyl),100000
+economy,Spark Plug Replacement (6-cyl),100000
+economy,Spark Plug Replacement (8-cyl),100000
+mid,Oil Change,10000
+mid,Transmission Fluid Change,60000
+mid,Brake Fluid Change,40000
+mid,Air Filter,30000
+mid,Cabin Air Filter,15000
+mid,Spark Plug Replacement (4-cyl),100000
+mid,Spark Plug Replacement (6-cyl),100000
+mid,Spark Plug Replacement (8-cyl),100000
+luxury,Oil Change,10000
+luxury,Transmission Fluid Change,50000
+luxury,Brake Fluid Change,25000
+luxury,Air Filter,30000
+luxury,Cabin Air Filter,15000
+luxury,Spark Plug Replacement (4-cyl),60000
+luxury,Spark Plug Replacement (6-cyl),60000
+luxury,Spark Plug Replacement (8-cyl),60000
+performance,Oil Change,10000
+performance,Transmission Fluid Change,40000
+performance,Brake Fluid Change,20000
+performance,Air Filter,25000
+performance,Cabin Air Filter,15000
+performance,Spark Plug Replacement (6-cyl),50000
+performance,Spark Plug Replacement (8-cyl),50000

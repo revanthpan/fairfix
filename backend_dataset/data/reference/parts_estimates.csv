@@ -1,0 +1,105 @@
+service_name,vehicle_tier,parts_mean,parts_std
+Oil Change,economy,27.5,3.83
+Oil Change,mid,35,5.10
+Oil Change,luxury,75,12.76
+Oil Change,performance,90,15.31
+Transmission Fluid Change,economy,52.5,8.93
+Transmission Fluid Change,mid,67.5,11.48
+Transmission Fluid Change,luxury,90,15.31
+Transmission Fluid Change,performance,110,15.31
+Brake Fluid Change,economy,32.5,8.93
+Brake Fluid Change,mid,42.5,10.20
+Brake Fluid Change,luxury,60,12.76
+Brake Fluid Change,performance,75,15.31
+Air Filter,economy,27.5,6.38
+Air Filter,mid,35,6.38
+Air Filter,luxury,55,10.20
+Air Filter,performance,70,12.76
+Cabin Air Filter,economy,25,5.10
+Cabin Air Filter,mid,32.5,5.10
+Cabin Air Filter,luxury,50,8.93
+Cabin Air Filter,performance,65,10.20
+TPMS Sensor,economy,85,17.86
+TPMS Sensor,mid,100,17.86
+TPMS Sensor,luxury,140,25.51
+TPMS Sensor,performance,170,25.51
+Brake Pad Replacement (Front),economy,70,10.20
+Brake Pad Replacement (Front),mid,95,12.76
+Brake Pad Replacement (Front),luxury,160,20.41
+Brake Pad Replacement (Front),performance,225,38.27
+Brake Pad Replacement (Rear),economy,57.5,8.93
+Brake Pad Replacement (Rear),mid,75,12.76
+Brake Pad Replacement (Rear),luxury,140,20.41
+Brake Pad Replacement (Rear),performance,185,33.16
+Brake Rotor Replacement (Front),economy,115,17.86
+Brake Rotor Replacement (Front),mid,150,25.51
+Brake Rotor Replacement (Front),luxury,225,38.27
+Brake Rotor Replacement (Front),performance,300,51.02
+Brake Rotor Replacement (Rear),economy,90,15.31
+Brake Rotor Replacement (Rear),mid,120,20.41
+Brake Rotor Replacement (Rear),luxury,185,33.16
+Brake Rotor Replacement (Rear),performance,250,51.02
+Alternator Replacement,economy,225,38.27
+Alternator Replacement,mid,265,43.37
+Alternator Replacement,luxury,400,51.02
+Alternator Replacement,performance,475,63.78
+Starter Replacement,economy,150,25.51
+Starter Replacement,mid,185,33.16
+Starter Replacement,luxury,300,51.02
+Starter Replacement,performance,375,63.78
+Battery Replacement,economy,115,17.86
+Battery Replacement,mid,140,20.41
+Battery Replacement,luxury,200,25.51
+Battery Replacement,performance,240,30.61
+Spark Plug Replacement (4-cyl),economy,45,7.65
+Spark Plug Replacement (4-cyl),mid,60,10.20
+Spark Plug Replacement (4-cyl),luxury,115,17.86
+Spark Plug Replacement (4-cyl),performance,150,25.51
+Spark Plug Replacement (6-cyl),economy,67.5,11.48
+Spark Plug Replacement (6-cyl),mid,90,15.31
+Spark Plug Replacement (6-cyl),luxury,170,25.51
+Spark Plug Replacement (6-cyl),performance,215,33.16
+Spark Plug Replacement (8-cyl),economy,90,15.31
+Spark Plug Replacement (8-cyl),mid,120,20.41
+Spark Plug Replacement (8-cyl),luxury,225,38.27
+Spark Plug Replacement (8-cyl),performance,300,51.02
+Timing Belt Replacement,economy,115,17.86
+Timing Belt Replacement,mid,150,25.51
+Timing Belt Replacement,luxury,265,43.37
+Timing Belt Replacement,performance,300,51.02
+Water Pump Replacement,economy,115,17.86
+Water Pump Replacement,mid,150,25.51
+Water Pump Replacement,luxury,225,38.27
+Water Pump Replacement,performance,265,43.37
+Thermostat Replacement,economy,37.5,6.38
+Thermostat Replacement,mid,52.5,8.93
+Thermostat Replacement,luxury,90,15.31
+Thermostat Replacement,performance,115,17.86
+Radiator Replacement,economy,185,33.16
+Radiator Replacement,mid,225,38.27
+Radiator Replacement,luxury,350,51.02
+Radiator Replacement,performance,425,63.78
+AC Recharge,economy,75,12.76
+AC Recharge,mid,95,12.76
+AC Recharge,luxury,140,20.41
+AC Recharge,performance,170,25.51
+Compressor Replacement,economy,300,51.02
+Compressor Replacement,mid,375,63.78
+Compressor Replacement,luxury,550,76.53
+Compressor Replacement,performance,625,89.29
+Tire Rotation,economy,0,0
+Tire Rotation,mid,0,0
+Tire Rotation,luxury,0,0
+Tire Rotation,performance,0,0
+Wheel Alignment,economy,100,10.20
+Wheel Alignment,mid,125,12.76
+Wheel Alignment,luxury,150,15.31
+Wheel Alignment,performance,185,17.86
+Strut Replacement (Front),economy,215,33.16
+Strut Replacement (Front),mid,265,43.37
+Strut Replacement (Front),luxury,400,51.02
+Strut Replacement (Front),performance,475,63.78
+Strut Replacement (Rear),economy,170,25.51
+Strut Replacement (Rear),mid,215,33.16
+Strut Replacement (Rear),luxury,350,51.02
+Strut Replacement (Rear),performance,425,63.78

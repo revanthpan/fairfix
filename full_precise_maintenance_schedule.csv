@@ -1,0 +1,1361 @@
+make,model,category,year,interval_miles,interval_months,service_category,description
+Toyota,Corolla,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Toyota,Corolla,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Corolla,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Corolla,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Corolla,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Toyota,Corolla,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Corolla,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Corolla,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Corolla,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Toyota,Corolla,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Corolla,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Corolla,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Corolla,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Toyota,Corolla,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Corolla,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Corolla,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Corolla,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Toyota,Corolla,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Corolla,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Corolla,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,RAV4,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Toyota,RAV4,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,RAV4,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,RAV4,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,RAV4,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Toyota,RAV4,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,RAV4,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,RAV4,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,RAV4,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Toyota,RAV4,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,RAV4,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,RAV4,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,RAV4,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Toyota,RAV4,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,RAV4,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,RAV4,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,RAV4,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Toyota,RAV4,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,RAV4,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,RAV4,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Avalon,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Toyota,Avalon,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Avalon,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Avalon,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Avalon,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Toyota,Avalon,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Avalon,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Avalon,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Avalon,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Toyota,Avalon,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Avalon,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Avalon,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Avalon,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Toyota,Avalon,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Avalon,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Avalon,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Avalon,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Toyota,Avalon,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Avalon,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Avalon,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Supra,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Toyota,Supra,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Supra,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Supra,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Supra,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Toyota,Supra,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Supra,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Supra,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Supra,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Toyota,Supra,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Supra,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Supra,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Supra,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Toyota,Supra,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Supra,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Supra,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Toyota,Supra,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Toyota,Supra,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Toyota,Supra,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Toyota,Supra,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,CR-V,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Honda,CR-V,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,CR-V,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,CR-V,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,CR-V,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Honda,CR-V,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,CR-V,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,CR-V,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,CR-V,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Honda,CR-V,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,CR-V,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,CR-V,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,CR-V,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Honda,CR-V,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,CR-V,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,CR-V,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,CR-V,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Honda,CR-V,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,CR-V,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,CR-V,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord Touring,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord Touring,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord Touring,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord Touring,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord Touring,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord Touring,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord Touring,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord Touring,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord Touring,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord Touring,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord Touring,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord Touring,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord Touring,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord Touring,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord Touring,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord Touring,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Accord Touring,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Honda,Accord Touring,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Accord Touring,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Accord Touring,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Civic Type R,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Honda,Civic Type R,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Civic Type R,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Civic Type R,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Civic Type R,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Honda,Civic Type R,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Civic Type R,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Civic Type R,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Civic Type R,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Honda,Civic Type R,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Civic Type R,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Civic Type R,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Civic Type R,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Honda,Civic Type R,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Civic Type R,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Civic Type R,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Honda,Civic Type R,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Honda,Civic Type R,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Honda,Civic Type R,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Honda,Civic Type R,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Fusion,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ford,Fusion,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Fusion,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Fusion,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Fusion,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ford,Fusion,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Fusion,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Fusion,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Fusion,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ford,Fusion,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Fusion,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Fusion,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Fusion,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ford,Fusion,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Fusion,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Fusion,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Fusion,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ford,Fusion,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Fusion,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Fusion,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Escape,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ford,Escape,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Escape,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Escape,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Escape,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ford,Escape,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Escape,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Escape,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Escape,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ford,Escape,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Escape,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Escape,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Escape,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ford,Escape,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Escape,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Escape,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Escape,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ford,Escape,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Escape,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Escape,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Taurus,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ford,Taurus,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Taurus,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Taurus,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Taurus,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ford,Taurus,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Taurus,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Taurus,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Taurus,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ford,Taurus,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Taurus,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Taurus,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Taurus,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ford,Taurus,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Taurus,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Taurus,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Taurus,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ford,Taurus,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Taurus,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Taurus,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Mustang,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ford,Mustang,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Mustang,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Mustang,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Mustang,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ford,Mustang,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Mustang,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Mustang,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Mustang,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ford,Mustang,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Mustang,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Mustang,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Mustang,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ford,Mustang,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Mustang,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Mustang,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ford,Mustang,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ford,Mustang,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ford,Mustang,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ford,Mustang,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Malibu,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Malibu,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Malibu,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Malibu,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Malibu,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Malibu,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Malibu,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Malibu,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Malibu,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Malibu,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Malibu,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Malibu,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Malibu,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Malibu,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Malibu,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Malibu,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Malibu,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Malibu,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Malibu,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Malibu,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Equinox,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Equinox,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Equinox,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Equinox,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Equinox,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Equinox,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Equinox,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Equinox,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Equinox,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Equinox,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Equinox,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Equinox,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Equinox,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Equinox,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Equinox,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Equinox,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Equinox,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Equinox,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Equinox,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Equinox,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Impala,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Impala,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Impala,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Impala,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Impala,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Impala,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Impala,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Impala,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Impala,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Impala,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Impala,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Impala,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Impala,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Impala,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Impala,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Impala,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Impala,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Impala,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Impala,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Impala,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Camaro,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Camaro,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Camaro,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Camaro,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Camaro,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Camaro,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Camaro,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Camaro,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Camaro,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Camaro,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Camaro,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Camaro,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Camaro,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Camaro,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Camaro,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Camaro,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Chevrolet,Camaro,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Chevrolet,Camaro,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Chevrolet,Camaro,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Chevrolet,Camaro,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Altima,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Nissan,Altima,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Altima,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Altima,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Altima,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Nissan,Altima,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Altima,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Altima,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Altima,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Nissan,Altima,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Altima,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Altima,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Altima,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Nissan,Altima,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Altima,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Altima,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Altima,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Nissan,Altima,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Altima,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Altima,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Rogue,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Nissan,Rogue,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Rogue,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Rogue,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Rogue,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Nissan,Rogue,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Rogue,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Rogue,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Rogue,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Nissan,Rogue,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Rogue,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Rogue,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Rogue,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Nissan,Rogue,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Rogue,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Rogue,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Rogue,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Nissan,Rogue,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Rogue,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Rogue,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Maxima,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Nissan,Maxima,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Maxima,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Maxima,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Maxima,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Nissan,Maxima,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Maxima,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Maxima,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Maxima,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Nissan,Maxima,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Maxima,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Maxima,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Maxima,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Nissan,Maxima,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Maxima,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Maxima,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,Maxima,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Nissan,Maxima,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,Maxima,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,Maxima,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,370Z,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Nissan,370Z,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,370Z,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,370Z,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,370Z,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Nissan,370Z,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,370Z,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,370Z,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,370Z,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Nissan,370Z,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,370Z,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,370Z,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,370Z,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Nissan,370Z,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,370Z,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,370Z,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Nissan,370Z,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Nissan,370Z,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Nissan,370Z,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Nissan,370Z,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Elantra,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Elantra,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Elantra,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Elantra,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Elantra,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Elantra,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Elantra,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Elantra,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Elantra,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Elantra,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Elantra,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Elantra,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Elantra,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Elantra,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Elantra,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Elantra,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Elantra,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Elantra,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Elantra,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Elantra,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Tucson,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Tucson,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Tucson,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Tucson,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Tucson,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Tucson,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Tucson,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Tucson,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Tucson,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Tucson,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Tucson,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Tucson,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Tucson,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Tucson,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Tucson,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Tucson,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Tucson,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Tucson,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Tucson,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Tucson,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Genesis G80,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Genesis G80,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Genesis G80,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Genesis G80,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Genesis G80,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Genesis G80,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Genesis G80,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Genesis G80,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Genesis G80,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Genesis G80,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Genesis G80,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Genesis G80,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Genesis G80,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Genesis G80,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Genesis G80,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Genesis G80,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Genesis G80,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Genesis G80,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Genesis G80,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Genesis G80,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Veloster N,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Veloster N,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Veloster N,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Veloster N,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Veloster N,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Veloster N,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Veloster N,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Veloster N,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Veloster N,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Veloster N,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Veloster N,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Veloster N,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Veloster N,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Veloster N,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Veloster N,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Veloster N,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Hyundai,Veloster N,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Hyundai,Veloster N,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Hyundai,Veloster N,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Hyundai,Veloster N,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Forte,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Kia,Forte,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Forte,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Forte,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Forte,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Kia,Forte,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Forte,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Forte,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Forte,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Kia,Forte,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Forte,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Forte,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Forte,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Kia,Forte,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Forte,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Forte,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Forte,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Kia,Forte,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Forte,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Forte,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Sportage,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Kia,Sportage,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Sportage,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Sportage,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Sportage,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Kia,Sportage,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Sportage,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Sportage,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Sportage,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Kia,Sportage,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Sportage,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Sportage,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Sportage,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Kia,Sportage,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Sportage,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Sportage,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Sportage,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Kia,Sportage,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Sportage,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Sportage,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,K900,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Kia,K900,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,K900,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,K900,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,K900,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Kia,K900,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,K900,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,K900,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,K900,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Kia,K900,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,K900,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,K900,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,K900,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Kia,K900,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,K900,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,K900,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,K900,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Kia,K900,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,K900,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,K900,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Stinger,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Kia,Stinger,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Stinger,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Stinger,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Stinger,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Kia,Stinger,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Stinger,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Stinger,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Stinger,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Kia,Stinger,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Stinger,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Stinger,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Stinger,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Kia,Stinger,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Stinger,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Stinger,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Kia,Stinger,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Kia,Stinger,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Kia,Stinger,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Kia,Stinger,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Impreza,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Subaru,Impreza,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Impreza,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Impreza,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Impreza,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Subaru,Impreza,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Impreza,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Impreza,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Impreza,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Subaru,Impreza,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Impreza,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Impreza,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Impreza,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Subaru,Impreza,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Impreza,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Impreza,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Impreza,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Subaru,Impreza,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Impreza,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Impreza,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Forester,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Subaru,Forester,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Forester,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Forester,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Forester,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Subaru,Forester,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Forester,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Forester,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Forester,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Subaru,Forester,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Forester,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Forester,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Forester,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Subaru,Forester,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Forester,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Forester,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Forester,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Subaru,Forester,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Forester,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Forester,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Legacy,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Subaru,Legacy,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Legacy,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Legacy,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Legacy,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Subaru,Legacy,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Legacy,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Legacy,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Legacy,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Subaru,Legacy,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Legacy,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Legacy,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Legacy,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Subaru,Legacy,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Legacy,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Legacy,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,Legacy,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Subaru,Legacy,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,Legacy,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,Legacy,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,WRX,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Subaru,WRX,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,WRX,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,WRX,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,WRX,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Subaru,WRX,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,WRX,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,WRX,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,WRX,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Subaru,WRX,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,WRX,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,WRX,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,WRX,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Subaru,WRX,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,WRX,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,WRX,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Subaru,WRX,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Subaru,WRX,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Subaru,WRX,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Subaru,WRX,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda3,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda3,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda3,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda3,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda3,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda3,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda3,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda3,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda3,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda3,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda3,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda3,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda3,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda3,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda3,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda3,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda3,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda3,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda3,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda3,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,CX-5,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mazda,CX-5,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,CX-5,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,CX-5,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,CX-5,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mazda,CX-5,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,CX-5,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,CX-5,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,CX-5,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mazda,CX-5,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,CX-5,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,CX-5,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,CX-5,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mazda,CX-5,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,CX-5,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,CX-5,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,CX-5,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mazda,CX-5,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,CX-5,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,CX-5,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda6,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda6,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda6,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda6,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda6,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda6,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda6,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda6,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda6,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda6,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda6,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda6,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda6,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda6,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda6,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda6,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,Mazda6,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mazda,Mazda6,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,Mazda6,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,Mazda6,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,MX-5 Miata,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mazda,MX-5 Miata,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,MX-5 Miata,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,MX-5 Miata,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,MX-5 Miata,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mazda,MX-5 Miata,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,MX-5 Miata,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,MX-5 Miata,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,MX-5 Miata,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mazda,MX-5 Miata,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,MX-5 Miata,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,MX-5 Miata,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,MX-5 Miata,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mazda,MX-5 Miata,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,MX-5 Miata,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,MX-5 Miata,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mazda,MX-5 Miata,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mazda,MX-5 Miata,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mazda,MX-5 Miata,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mazda,MX-5 Miata,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Jetta,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Jetta,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Jetta,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Jetta,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Jetta,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Jetta,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Jetta,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Jetta,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Jetta,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Jetta,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Jetta,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Jetta,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Jetta,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Jetta,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Jetta,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Jetta,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Jetta,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Jetta,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Jetta,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Jetta,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Tiguan,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Tiguan,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Tiguan,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Tiguan,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Tiguan,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Tiguan,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Tiguan,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Tiguan,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Tiguan,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Tiguan,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Tiguan,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Tiguan,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Tiguan,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Tiguan,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Tiguan,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Tiguan,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Tiguan,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Tiguan,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Tiguan,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Tiguan,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Arteon,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Arteon,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Arteon,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Arteon,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Arteon,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Arteon,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Arteon,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Arteon,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Arteon,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Arteon,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Arteon,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Arteon,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Arteon,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Arteon,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Arteon,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Arteon,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Arteon,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Arteon,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Arteon,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Arteon,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Golf R,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Golf R,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Golf R,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Golf R,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Golf R,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Golf R,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Golf R,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Golf R,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Golf R,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Golf R,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Golf R,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Golf R,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Golf R,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Golf R,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Golf R,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Golf R,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Volkswagen,Golf R,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Volkswagen,Golf R,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Volkswagen,Golf R,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Volkswagen,Golf R,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,3 Series,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+BMW,3 Series,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,3 Series,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,3 Series,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,3 Series,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+BMW,3 Series,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,3 Series,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,3 Series,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,3 Series,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+BMW,3 Series,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,3 Series,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,3 Series,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,3 Series,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+BMW,3 Series,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,3 Series,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,3 Series,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,3 Series,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+BMW,3 Series,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,3 Series,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,3 Series,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,X3,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+BMW,X3,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,X3,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,X3,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,X3,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+BMW,X3,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,X3,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,X3,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,X3,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+BMW,X3,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,X3,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,X3,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,X3,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+BMW,X3,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,X3,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,X3,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,X3,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+BMW,X3,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,X3,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,X3,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,5 Series,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+BMW,5 Series,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,5 Series,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,5 Series,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,5 Series,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+BMW,5 Series,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,5 Series,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,5 Series,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,5 Series,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+BMW,5 Series,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,5 Series,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,5 Series,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,5 Series,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+BMW,5 Series,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,5 Series,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,5 Series,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,5 Series,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+BMW,5 Series,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,5 Series,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,5 Series,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,M4,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+BMW,M4,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,M4,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,M4,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,M4,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+BMW,M4,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,M4,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,M4,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,M4,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+BMW,M4,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,M4,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,M4,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,M4,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+BMW,M4,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,M4,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,M4,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+BMW,M4,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+BMW,M4,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+BMW,M4,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+BMW,M4,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,C-Class,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,C-Class,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,C-Class,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,C-Class,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,C-Class,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,C-Class,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,C-Class,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,C-Class,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,C-Class,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,C-Class,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,C-Class,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,C-Class,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,C-Class,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,C-Class,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,C-Class,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,C-Class,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,C-Class,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,C-Class,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,C-Class,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,C-Class,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,GLC,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,GLC,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,GLC,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,GLC,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,GLC,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,GLC,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,GLC,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,GLC,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,GLC,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,GLC,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,GLC,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,GLC,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,GLC,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,GLC,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,GLC,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,GLC,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,GLC,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,GLC,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,GLC,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,GLC,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,E-Class,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,E-Class,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,E-Class,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,E-Class,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,E-Class,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,E-Class,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,E-Class,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,E-Class,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,E-Class,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,E-Class,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,E-Class,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,E-Class,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,E-Class,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,E-Class,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,E-Class,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,E-Class,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,E-Class,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,E-Class,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,E-Class,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,E-Class,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,AMG GT,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,AMG GT,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,AMG GT,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,AMG GT,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,AMG GT,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,AMG GT,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,AMG GT,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,AMG GT,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,AMG GT,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,AMG GT,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,AMG GT,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,AMG GT,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,AMG GT,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,AMG GT,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,AMG GT,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,AMG GT,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Mercedes-Benz,AMG GT,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Mercedes-Benz,AMG GT,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Mercedes-Benz,AMG GT,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Mercedes-Benz,AMG GT,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A4,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Audi,A4,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A4,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A4,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A4,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Audi,A4,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A4,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A4,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A4,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Audi,A4,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A4,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A4,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A4,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Audi,A4,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A4,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A4,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A4,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Audi,A4,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A4,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A4,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,Q5,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Audi,Q5,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,Q5,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,Q5,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,Q5,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Audi,Q5,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,Q5,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,Q5,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,Q5,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Audi,Q5,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,Q5,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,Q5,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,Q5,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Audi,Q5,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,Q5,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,Q5,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,Q5,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Audi,Q5,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,Q5,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,Q5,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A6,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Audi,A6,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A6,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A6,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A6,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Audi,A6,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A6,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A6,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A6,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Audi,A6,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A6,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A6,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A6,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Audi,A6,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A6,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A6,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,A6,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Audi,A6,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,A6,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,A6,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,RS5,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Audi,RS5,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,RS5,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,RS5,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,RS5,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Audi,RS5,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,RS5,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,RS5,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,RS5,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Audi,RS5,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,RS5,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,RS5,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,RS5,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Audi,RS5,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,RS5,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,RS5,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Audi,RS5,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Audi,RS5,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Audi,RS5,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Audi,RS5,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,ES,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Lexus,ES,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,ES,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,ES,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,ES,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Lexus,ES,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,ES,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,ES,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,ES,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Lexus,ES,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,ES,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,ES,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,ES,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Lexus,ES,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,ES,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,ES,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,ES,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Lexus,ES,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,ES,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,ES,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RX,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Lexus,RX,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RX,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RX,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RX,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Lexus,RX,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RX,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RX,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RX,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Lexus,RX,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RX,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RX,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RX,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Lexus,RX,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RX,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RX,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RX,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Lexus,RX,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RX,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RX,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,LS,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Lexus,LS,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,LS,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,LS,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,LS,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Lexus,LS,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,LS,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,LS,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,LS,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Lexus,LS,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,LS,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,LS,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,LS,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Lexus,LS,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,LS,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,LS,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,LS,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Lexus,LS,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,LS,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,LS,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RC F,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Lexus,RC F,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RC F,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RC F,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RC F,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Lexus,RC F,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RC F,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RC F,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RC F,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Lexus,RC F,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RC F,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RC F,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RC F,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Lexus,RC F,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RC F,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RC F,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Lexus,RC F,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Lexus,RC F,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Lexus,RC F,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Lexus,RC F,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Compass,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Jeep,Compass,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Compass,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Compass,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Compass,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Jeep,Compass,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Compass,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Compass,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Compass,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Jeep,Compass,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Compass,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Compass,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Compass,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Jeep,Compass,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Compass,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Compass,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Compass,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Jeep,Compass,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Compass,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Compass,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Cherokee,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Cherokee,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Cherokee,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Cherokee,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Cherokee,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Cherokee,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Cherokee,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Cherokee,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Cherokee,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Cherokee,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Cherokee,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Cherokee,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Cherokee,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Cherokee,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Cherokee,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Cherokee,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Cherokee,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Cherokee,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Cherokee,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Cherokee,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Wagoneer,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Wagoneer,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Wagoneer,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Wagoneer,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Wagoneer,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Wagoneer,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Wagoneer,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Wagoneer,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Wagoneer,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Wagoneer,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Wagoneer,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Wagoneer,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Wagoneer,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Wagoneer,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Wagoneer,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Wagoneer,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Grand Wagoneer,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Jeep,Grand Wagoneer,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Grand Wagoneer,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Grand Wagoneer,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Wrangler Rubicon,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Jeep,Wrangler Rubicon,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Wrangler Rubicon,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Wrangler Rubicon,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Wrangler Rubicon,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Jeep,Wrangler Rubicon,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Wrangler Rubicon,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Wrangler Rubicon,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Wrangler Rubicon,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Jeep,Wrangler Rubicon,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Wrangler Rubicon,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Wrangler Rubicon,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Wrangler Rubicon,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Jeep,Wrangler Rubicon,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Wrangler Rubicon,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Wrangler Rubicon,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Jeep,Wrangler Rubicon,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Jeep,Wrangler Rubicon,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Jeep,Wrangler Rubicon,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Jeep,Wrangler Rubicon,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Terrain,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+GMC,Terrain,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Terrain,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Terrain,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Terrain,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+GMC,Terrain,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Terrain,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Terrain,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Terrain,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+GMC,Terrain,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Terrain,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Terrain,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Terrain,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+GMC,Terrain,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Terrain,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Terrain,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Terrain,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+GMC,Terrain,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Terrain,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Terrain,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Acadia,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+GMC,Acadia,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Acadia,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Acadia,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Acadia,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+GMC,Acadia,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Acadia,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Acadia,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Acadia,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+GMC,Acadia,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Acadia,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Acadia,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Acadia,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+GMC,Acadia,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Acadia,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Acadia,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Acadia,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+GMC,Acadia,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Acadia,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Acadia,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Yukon Denali,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+GMC,Yukon Denali,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Yukon Denali,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Yukon Denali,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Yukon Denali,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+GMC,Yukon Denali,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Yukon Denali,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Yukon Denali,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Yukon Denali,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+GMC,Yukon Denali,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Yukon Denali,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Yukon Denali,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Yukon Denali,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+GMC,Yukon Denali,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Yukon Denali,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Yukon Denali,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Yukon Denali,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+GMC,Yukon Denali,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Yukon Denali,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Yukon Denali,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Sierra Denali,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+GMC,Sierra Denali,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Sierra Denali,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Sierra Denali,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Sierra Denali,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+GMC,Sierra Denali,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Sierra Denali,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Sierra Denali,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Sierra Denali,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+GMC,Sierra Denali,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Sierra Denali,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Sierra Denali,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Sierra Denali,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+GMC,Sierra Denali,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Sierra Denali,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Sierra Denali,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+GMC,Sierra Denali,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+GMC,Sierra Denali,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+GMC,Sierra Denali,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+GMC,Sierra Denali,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500 Classic,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ram,1500 Classic,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500 Classic,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500 Classic,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500 Classic,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ram,1500 Classic,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500 Classic,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500 Classic,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500 Classic,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ram,1500 Classic,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500 Classic,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500 Classic,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500 Classic,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ram,1500 Classic,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500 Classic,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500 Classic,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500 Classic,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ram,1500 Classic,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500 Classic,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500 Classic,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ram,1500,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ram,1500,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ram,1500,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ram,1500,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,1500,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ram,1500,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,1500,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,1500,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,2500 Laramie,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ram,2500 Laramie,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,2500 Laramie,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,2500 Laramie,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,2500 Laramie,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ram,2500 Laramie,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,2500 Laramie,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,2500 Laramie,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,2500 Laramie,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ram,2500 Laramie,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,2500 Laramie,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,2500 Laramie,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,2500 Laramie,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ram,2500 Laramie,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,2500 Laramie,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,2500 Laramie,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,2500 Laramie,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ram,2500 Laramie,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,2500 Laramie,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,2500 Laramie,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,TRX,Standard,2014,5000,6,Oil Service,Engine oil & filter change
+Ram,TRX,Standard,2014,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,TRX,Standard,2014,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,TRX,Standard,2014,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,TRX,Standard,2017,5000,6,Oil Service,Engine oil & filter change
+Ram,TRX,Standard,2017,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,TRX,Standard,2017,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,TRX,Standard,2017,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,TRX,Standard,2020,5000,6,Oil Service,Engine oil & filter change
+Ram,TRX,Standard,2020,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,TRX,Standard,2020,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,TRX,Standard,2020,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,TRX,Standard,2023,5000,6,Oil Service,Engine oil & filter change
+Ram,TRX,Standard,2023,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,TRX,Standard,2023,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,TRX,Standard,2023,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"
+Ram,TRX,Standard,2026,5000,6,Oil Service,Engine oil & filter change
+Ram,TRX,Standard,2026,15000,18,Inspection,"Brakes, filters, fluids inspection"
+Ram,TRX,Standard,2026,30000,36,Major Service,"Transmission service, air filters, coolant check"
+Ram,TRX,Standard,2026,60000,72,Major Service,"Brake service, transmission fluid, coolant flush"

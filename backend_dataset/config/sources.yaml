@@ -1,0 +1,100 @@
+# Data Source Configuration
+# Auto Maintenance Pipeline
+
+oem_maintenance_schedules:
+  sources:
+    - type: website
+      name: manufacturer_service_websites
+      base_urls:
+        - https://www.toyota.com/owners/resources/maintenance-guide
+        - https://www.honda.com/owners/maintenance
+        - https://www.ford.com/owner/service/maintenance
+      enabled: true
+      rate_limit_per_minute: 10
+
+    - type: pdf
+      name: owner_manual_pdfs
+      storage_path: data/raw/oem_manuals
+      enabled: true
+
+    - type: api
+      name: oem_apis
+      enabled: false
+
+    - type: bulletin
+      name: public_service_bulletins
+      base_urls:
+        - https://www.nhtsa.gov/recalls
+      enabled: true
+
+dealer_repair_pricing:
+  sources:
+    - type: website
+      name: dealer_service_pages
+      enabled: true
+      rate_limit_per_minute: 5
+
+    - type: website
+      name: public_service_menus
+      enabled: true
+
+    - type: api
+      name: dealer_apis
+      enabled: false
+
+labor_time_standards:
+  sources:
+    - type: reference
+      name: ase_data
+      note: "ASE - may require licensing"
+      enabled: false
+
+    - type: fleet
+      name: fleet_maintenance_docs
+      storage_path: data/raw/fleet_standards
+      enabled: true
+
+parts_pricing:
+  sources:
+    - type: website
+      name: rockauto
+      base_url: https://www.rockauto.com
+      enabled: true
+      rate_limit_per_minute: 5
+
+    - type: website
+      name: autozone
+      base_url: https://www.autozone.com
+      enabled: true
+
+    - type: website
+      name: oreilly
+      base_url: https://www.oreillyauto.com
+      enabled: true
+
+    - type: website
+      name: napa
+      base_url: https://www.napaonline.com
+      enabled: true
+
+    - type: website
+      name: amazon_automotive
+      base_url: https://www.amazon.com/automotive
+      enabled: true
+
+recalls_and_issues:
+  sources:
+    - type: api
+      name: nhtsa
+      base_url: https://api.nhtsa.gov
+      endpoints:
+        recalls_by_vin: /recalls/recallsByVIN
+        recalls_all: /recalls/recallsByCampaignNumber
+        complaints: /complaints/complaintsByVehicle
+        tsbs: /recalls/recallsByComponent
+      enabled: true
+      rate_limit_per_minute: 1000
+
+    - type: bulletin
+      name: technical_service_bulletins
+      enabled: true

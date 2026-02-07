@@ -1,0 +1,9 @@
+shop_type,vehicle_tier,rate_mean,rate_std
+dealer,economy,105,7.65
+dealer,mid,120,10.20
+dealer,luxury,155,12.76
+dealer,performance,175,12.76
+indy,economy,82.5,6.38
+indy,mid,95,7.65
+indy,luxury,120,10.20
+indy,performance,140,10.20

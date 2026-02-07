@@ -1,0 +1,48 @@
+make,model,service_name,mileage_interval
+Honda,Civic,Oil Change,7500
+Honda,Civic,Transmission Fluid Change,60000
+Honda,Civic,Brake Fluid Change,45000
+Honda,Civic,Air Filter,30000
+Honda,Civic,Cabin Air Filter,20000
+Honda,Civic,Spark Plug Replacement (4-cyl),100000
+Honda,Civic,Spark Plug Replacement (6-cyl),100000
+Honda,Accord,Oil Change,7500
+Honda,Accord,Transmission Fluid Change,60000
+Honda,Accord,Brake Fluid Change,45000
+Honda,Accord,Spark Plug Replacement (4-cyl),105000
+Honda,Accord,Spark Plug Replacement (6-cyl),105000
+Toyota,Camry,Oil Change,10000
+Toyota,Camry,Transmission Fluid Change,60000
+Toyota,Camry,Brake Fluid Change,30000
+Toyota,Camry,Air Filter,30000
+Toyota,Camry,Cabin Air Filter,15000
+Toyota,Camry,Spark Plug Replacement (4-cyl),120000
+Toyota,Camry,Spark Plug Replacement (6-cyl),120000
+Toyota,Corolla,Oil Change,10000
+Toyota,Corolla,Transmission Fluid Change,60000
+Toyota,Corolla,Spark Plug Replacement (4-cyl),120000
+BMW,M3,Oil Change,10000
+BMW,M3,Spark Plug Replacement (6-cyl),60000
+BMW,M3,Brake Fluid Change,20000
+BMW,M4,Oil Change,10000
+BMW,M4,Spark Plug Replacement (6-cyl),60000
+BMW,M4,Brake Fluid Change,20000
+BMW,3 Series,Oil Change,10000
+BMW,3 Series,Spark Plug Replacement (6-cyl),60000
+BMW,4 Series,Oil Change,10000
+BMW,4 Series,Spark Plug Replacement (6-cyl),60000
+Mercedes-Benz,E350,Oil Change,10000
+Mercedes-Benz,E350,Transmission Fluid Change,40000
+Mercedes-Benz,E350,Spark Plug Replacement (6-cyl),60000
+Mercedes-Benz,E350,Brake Fluid Change,20000
+Mercedes-Benz,E-Class,Oil Change,10000
+Mercedes-Benz,E-Class,Transmission Fluid Change,40000
+Mercedes-Benz,E-Class,Spark Plug Replacement (6-cyl),60000
+Mercedes-Benz,C-Class,Oil Change,10000
+Mercedes-Benz,C-Class,Spark Plug Replacement (4-cyl),60000
+Mercedes-Benz,C-Class,Spark Plug Replacement (6-cyl),60000
+Ford,F-150,Oil Change,7500
+Ford,F-150,Transmission Fluid Change,60000
+Ford,F-150,Spark Plug Replacement (8-cyl),100000
+Ford,Mustang,Oil Change,7500
+Ford,Mustang,Spark Plug Replacement (8-cyl),100000
