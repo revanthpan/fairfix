@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analysis Dashboard | Car Repair Protector</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="page">
+      <nav class="nav">
+        <div class="container nav__brand">
+          <a href="index.html">Car Repair Protector</a>
+          <span class="nav__badge">Analysis Complete</span>
+        </div>
+      </nav>
+
+      <main class="dashboard">
+        <div class="container">
+          <section class="panel">
+            <h1 class="section-title">Your Quote Analysis</h1>
+            <div class="trust-meter trust-meter--overpriced">
+              <span>Trust Meter</span>
+              <span>Overpriced</span>
+            </div>
+            <div class="stat-grid">
+              <div class="stat">
+                <span class="stat__label">Vehicle</span>
+                <span id="vehicleValue">--</span>
+              </div>
+              <div class="stat">
+                <span class="stat__label">Shop Quote</span>
+                <span id="shopQuoteValue">--</span>
+              </div>
+              <div class="stat">
+                <span class="stat__label">Fair Price</span>
+                <span id="fairPriceValue">--</span>
+              </div>
+            </div>
+            <div class="gauge">
+              <div class="gauge__needle"></div>
+            </div>
+            <div class="gauge__label" id="gaugeLabel">
+              You are paying far above fair pricing.
+            </div>
+          </section>
+
+          <section class="panel">
+            <h2 class="section-title">Scam Alerts</h2>
+            <div id="flagsList"></div>
+          </section>
+
+          <section class="panel">
+            <h2 class="section-title">Negotiation Script</h2>
+            <p class="feature-card__text">
+              Use this calm, factual script to ask for a fairer estimate.
+            </p>
+            <button class="button button--primary" id="scriptButton" type="button">
+              Show This to Your Mechanic
+            </button>
+            <div id="scriptBox" class="script-box" style="display: none; margin-top: 16px">
+              I appreciate the estimate. Based on OEM data and local labor rates,
+              the fair price for these repairs is closer to the benchmark you see
+              here. Can we review the line items together and remove anything that
+              is not required?
+            </div>
+          </section>
+        </div>
+      </main>
+
+      <footer class="footer">
+        Data shown here is a demo using mock analysis.
+      </footer>
+    </div>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>
